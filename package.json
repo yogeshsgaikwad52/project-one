@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yogeshsgaikwad52/project-one/issues"
   },
-  "homepage": "https://github.com/yogeshsgaikwad52/project-one#readme"
+  "homepage": "https://github.com/yogeshsgaikwad52/project-one#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1"
+  }
 }
